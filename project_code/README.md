@@ -1,5 +1,5 @@
 # 基于以太坊的区块链博彩应用
-#15331375叶锐
+15331375叶锐
 # How to run
 ## Install npm package
 make sure node version > 8
